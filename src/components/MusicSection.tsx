@@ -80,17 +80,7 @@ export const MusicSection = () => {
             })}
           </div>
 
-          {/* Spotify embed placeholder */}
-          <div className="mt-16 p-8 bg-card rounded-sm border border-border/30">
-            <div className="aspect-[3/1] md:aspect-[4/1] rounded-sm bg-muted/30 flex items-center justify-center">
-              <div className="text-center">
-                <Music className="w-12 h-12 text-gold/50 mx-auto mb-4" />
-                <p className="font-body text-cream/50 text-sm">
-                  Spotify Player
-                </p>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </section>
